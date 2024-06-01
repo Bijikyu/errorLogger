@@ -1,0 +1,15 @@
+{
+  "name": "qerrorlogger",
+  "version": "1.0.0",
+  "description": "Error logging js file module for use in a Node Express environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Q",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6"
+  }
+}
